@@ -1,2 +1,3 @@
-# selenium-learning
-My first GitHub repository
+# Selenium Learning
+
+I am learning GitHub and Selenium automation.
